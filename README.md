@@ -25,7 +25,7 @@ contains:
   - Results
     - [x] .csv files for important events e.g. black hole ejections, exchanges
     -  Movies for time evolution of:
-    - [ ] local density around each black hole
+    - [x] local density around each black hole
     - [x] mass density as a function of (log) radius
     - [x] number density as a function of (log) radius
     - [ ] mass distribution (histograms)
