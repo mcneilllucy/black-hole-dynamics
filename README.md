@@ -19,13 +19,13 @@ There is also a single snapdata.hdf5 file which contains e.g position and veloci
 contains:
 
 -  Analysis for largest cluster (200k stars, canonical)
-  - [-] ipython notebook
+  - [x] ipython notebook
   - [ ] .py script
   - Results
-    - [-] .csv files for important events e.g. black hole ejections, exchanges
+    - [x] .csv files for important events e.g. black hole ejections, exchanges
     -  Movies for time evolution of:
     - [ ] local density around each black hole
-    - [-] mass density as a function of (log) radius
-    - [-] number density as a function of (log) radius
+    - [x] mass density as a function of (log) radius
+    - [x] number density as a function of (log) radius
     - [ ] mass distribution (histograms)
     - [ ] root-mean-square distance to centre of mass, as a function of mass
