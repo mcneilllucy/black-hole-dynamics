@@ -1,2 +1,4 @@
-# black-hole-dynamics
-Tools to compute the temporal evolution of black hole populations in NBODY6 globular cluster simulations
+# Black hole dynamics for Globular clusters using NBODY6
+
+Tools to compute the temporal evolution of black hole populations.
+We use a suite of NBODY6 globular cluster simulations on Swinburne's OzStar supercomputer, run by Ruggero de Vita and published [here](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2Fde%20Vita%2C%20R%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FMacLeod%2C%20M%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_author=(author_facet_hier%3A%220%2Fde%20Vita%2C%20R%22%20AND%20author_facet_hier%3A%220%2FMacLeod%2C%20M%22)&fq_property=(property%3A%22refereed%22)&p_=0&q=%20%20author%3A%22de%20Vita%22%20%20author%3A%22Trenti%22%20%20author%3A%22MacLeod%22&sort=date%20desc%2C%20bibcode%20desc).
