@@ -20,7 +20,7 @@ contains:
 
 -  Analysis for largest cluster (200k stars, canonical)
   - [x] ipython notebook
-  - [ ] .py script
+  - [x] .py script
     - [x] quick local density computations with kdTree, using nearest neighbour structures.
   - Results
     - [x] .csv files for important events e.g. black hole ejections, exchanges
