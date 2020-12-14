@@ -31,7 +31,10 @@ contains:
     - [ ] mass distribution (histograms)
     - [ ] root-mean-square distance to centre of mass, as a function of mass
 
+### local density around each black hole
 
-## Using Results
+We make use of kdTree to optimize local density calculations around each black hole.
+Out of the 200,000 stars in the example simulation, at most ~100 of them are black holes.
+We probe the mass dependence on local density for all the black holes over time, shown in the following .gif:
 
 ![local-dens-200k-can](/analysis-scripts/Example-with-largest-200k-cluster/results/local-densities-radius-log0.041no-self.gif)
