@@ -15,7 +15,7 @@ A [Mathematica notebook](https://github.com/mcneilllucy/mcneilllucy.github.io/bl
 
 This foreground model has been used to make inferences about merger rates in [Antonini and Gieles 2020b](https://ui.adsabs.harvard.edu/abs/2020PhRvD.102l3016A/abstract).
 
-We will make use of the background model, but we are analysing NBODY6 simulations to create a different formulation of the black hole foreground, in the form of a simple monte carlo simulation that can be run in seconds.
+We will make use of the background model, but we are analysing NBODY6 simulations to create a different formulation of the black hole foreground, in the form of a simple monte carlo simulation that can be run in seconds. For example, it includes [Ginat and Perets 2020](https://ui.adsabs.harvard.edu/abs/2021PhRvX..11c1020G/citations) to determine outcomes of three body encounters.
 
 The purpose is not to rival or make redundant cluster monte carlo or NBODY. Instead, we would like to do inference on cluster simulations generally and understand how different prescriptions for e.g. supernova kicks, inital mass functions impact black hole merger rates in dense environments.
 
