@@ -8,7 +8,7 @@ First we will look at the time evolution of the masses.
 
 ## can200k
 
-![BH-masses-200k-can](/gifs/Nov-mass_hist_can200k_BH_only.gif)
+![BH-masses-200k-can](/analysis-scripts/gifs/Nov-mass_hist_can200k_BH_only.gif)
 
 
 ## kick200k
