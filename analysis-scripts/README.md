@@ -83,37 +83,38 @@ Given these mass populations (e.g. Z200k has the most numerous, most massive, wh
 
 ## can200k
 
-Nov-mass_dens_can200k_BH_only.gif
+![BH-mass-dens-can200k](/analysis-scripts/gifs/Nov-mass_dens_can200k_BH_only.gif)
+
 
 ## kick200k
 
-Nov-mass_dens_kick200k_BH_only.gif
+![BH-mass-dens-kick200k](/analysis-scripts/gifs/Nov-mass_dens_kick200k_BH_only.gif)
 
 ## Z200k
 
-Nov-mass_dens_Z200k_BH_only.gif
+![BH-mass-dens-Z200k](/analysis-scripts/gifs/Nov-mass_dens_Z200k_BH_only.gif)
 
 ## fb10200k
 
-Nov-mass_dens_fb10200k_BH_only.gif
+![BH-mass-dens-fb10200k](/analysis-scripts/gifs/Nov-mass_dens_fb10200k_BH_only.gif)
 
 # 6. Number density evolution (line)
 
 ## can200k
 
-Nov-num_dens_can200k_BH_only.gif
+![BH-num-dens-can200k](/analysis-scripts/gifs/Nov-num_dens_can200k_BH_only.gif)
 
 ## kick200k
 
-Nov-num_dens_kick200k_BH_only.gif
+![BH-num-dens-kick200k](/analysis-scripts/gifs/Nov-num_dens_kick200k_BH_only.gif)
 
 ## Z200k
 
-Nov-num_dens_Z200k_BH_only.gif
+![BH-num-dens-Z200k](/analysis-scripts/gifs/Nov-num_dens_Z200k_BH_only.gif)
 
 ## fb10200k
 
-Nov-num_dens_fb10200k_BH_only.gif
+![BH-num-dens-fb10200k](/analysis-scripts/gifs/Nov-num_dens_fb10200k_BH_only.gif)
 
 # 7. Power law estimates (line)
 
