@@ -52,7 +52,6 @@ Given these mass populations (e.g. Z200k has the most numerous, most massive, wh
 
 ## can200k
 
-![BH-mean-dist-scatter-can200k](/analysis-scripts/gifs/Nov-dist_avg_scatter_can200k_BH_only.gif)
 
 ![BH-mean-dist-can200k](/analysis-scripts/gifs/Nov-dist_hist_avg_can200k_BH_only.gif)
 
