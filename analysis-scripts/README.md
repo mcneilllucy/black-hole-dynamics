@@ -17,6 +17,8 @@ First we will look at the time evolution of the masses.
 
 ## Z200k
 
+(note the larger mass range compared to the rest)
+
 ![BH-masses-Z200k](/analysis-scripts/gifs/Nov-mass_hist_Z200k_BH_only.gif)
 
 ## fb10200k
@@ -25,23 +27,26 @@ First we will look at the time evolution of the masses.
 
 # 2. Mean mass of BHs as a function of radius (line)
 
-Given these mass populations ( ### ) let's look at the mean mass as a function of the radius.
+Given these mass populations (e.g. Z200k has the most numerous, most massive, while kick200k has the least BH overall, but slightly larger masses than can200k) let's look at the mean mass as a function of the radius.
 
 ## can200k
 
-Nov-mean_mass_can200k_BH_only.gif
+![BH-mean-mass-can200k](/analysis-scripts/gifs/Nov-mean_mass_can200k_BH_only.gif)
+
 
 ## kick200k
 
-Nov-mean_mass_kick200k_BH_only.gif
+![BH-mean-mass-kick200k](/analysis-scripts/gifs/Nov-mean_mass_kick200k_BH_only.gif)
+
 
 ## Z200k
 
-Nov-mean_mass_Z200k_BH_only.gif
+![BH-mean-mass-Z200k](/analysis-scripts/gifs/Nov-mean_mass_Z200k_BH_only.gif)
 
 ## fb10200k
 
-Nov-mean_mass_fb10200k_BH_only.gif
+![BH-mean-mass-fb10200k](/analysis-scripts/gifs/Nov-mean_mass_fb10200k_BH_only.gif)
+
 
 # 3. Radius as a function of mass (scatter plot, histogram)
 
