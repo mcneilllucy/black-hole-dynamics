@@ -8,25 +8,20 @@ First we will look at the time evolution of the masses.
 
 ## can200k
 
-![BH-masses-200k-can](/analysis-scripts/gifs/Nov-mass_hist_can200k_BH_only.gif)
+![BH-masses-can200k](/analysis-scripts/gifs/Nov-mass_hist_can200k_BH_only.gif)
 
 
 ## kick200k
 
-
-Nov-mass_hist_kick200k_BH_only.gif
+![BH-masses-kick200k](/analysis-scripts/gifs/Nov-mass_hist_kick200k_BH_only.gif)
 
 ## Z200k
 
-
-Nov-mass_hist_Z200k_BH_only.gif
+![BH-masses-Z200k](/analysis-scripts/gifs/Nov-mass_hist_Z200k_BH_only.gif)
 
 ## fb10200k
 
-
-Nov-mass_hist_fb10200k_BH_only.gif
-
-
+![BH-masses-fb10200k](/analysis-scripts/gifs/Nov-mass_hist_fb10200k_BH_only.gif)
 
 # 2. Mean mass of BHs as a function of radius (line)
 
