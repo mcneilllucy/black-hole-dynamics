@@ -53,20 +53,28 @@ Given these mass populations (e.g. Z200k has the most numerous, most massive, wh
 ## can200k
 
 
-![BH-mean-dist-can200k](/analysis-scripts/gifs/Nov-dist_hist_avg_can200k_BH_only.gif)
+![BH-mean-dist-hist-can200k](/analysis-scripts/gifs/Nov-dist_hist_avg_can200k_BH_only.gif)
+
+![BH-mean-dist-can200k](/analysis-scripts/gifs/Nov-dist_avg_scatter_can200k_BH_only.gif)
 
 
 ## kick200k
 
-![BH-mean-dist-kick200k](/analysis-scripts/gifs/Nov-dist_hist_avg_kick200k_BH_only.gif)
+![BH-mean-dist-hist-kick200k](/analysis-scripts/gifs/Nov-dist_hist_avg_kick200k_BH_only.gif)
+
+![BH-mean-dist-kick200k](/analysis-scripts/gifs/Nov-dist_avg_scatter_kick200k_BH_only.gif)
 
 ## Z200k
 
-![BH-mean-dist-Z200k](/analysis-scripts/gifs/Nov-dist_hist_avg_Z200k_BH_only.gif)
+![BH-mean-dist-hist-Z200k](/analysis-scripts/gifs/Nov-dist_hist_avg_Z200k_BH_only.gif)
+
+![BH-mean-dist-Z200k](/analysis-scripts/gifs/Nov-dist_avg_scatter_Z200k_BH_only.gif)
 
 ## fb10200k
 
-![BH-mean-dist-fb10200k](/analysis-scripts/gifs/Nov-dist_hist_avg_fb10200k_BH_only.gif)
+![BH-mean-dist-hist-fb10200k](/analysis-scripts/gifs/Nov-dist_hist_avg_fb10200k_BH_only.gif)
+
+![BH-mean-dist-fb10200k](/analysis-scripts/gifs/Nov-dist_avg_scatter_fb10200k_BH_only.gif)
 
 # 4. Equipartition (histogram)
 
